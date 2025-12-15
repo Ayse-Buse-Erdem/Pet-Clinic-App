@@ -1,10 +1,8 @@
-C:\Users\ayseb\source\repos\PetClinicApp\PetClinicApp\bin\Debug\PetClinicApp.exe
 C:\Users\ayseb\source\repos\PetClinicApp\PetClinicApp\bin\Debug\DatabaseScripts\script.sql
-C:\Users\ayseb\source\repos\PetClinicApp\PetClinicApp\bin\Debug\Database\Database1.mdf
 C:\Users\ayseb\source\repos\PetClinicApp\PetClinicApp\bin\Debug\Resources\Pet21.jpg
-C:\Users\ayseb\source\repos\PetClinicApp\PetClinicApp\bin\Debug\Database1.mdf
-C:\Users\ayseb\source\repos\PetClinicApp\PetClinicApp\bin\Debug\Database\Database1_log.ldf
 C:\Users\ayseb\source\repos\PetClinicApp\PetClinicApp\bin\Debug\PetClinicApp.exe.config
+C:\Users\ayseb\source\repos\PetClinicApp\PetClinicApp\bin\Debug\PetClinicApp.exe
+C:\Users\ayseb\source\repos\PetClinicApp\PetClinicApp\bin\Debug\PetClinicApp.pdb
 C:\Users\ayseb\source\repos\PetClinicApp\PetClinicApp\bin\Debug\System.Data.SqlClient.dll
 C:\Users\ayseb\source\repos\PetClinicApp\PetClinicApp\bin\Debug\System.Data.SqlClient.xml
 C:\Users\ayseb\source\repos\PetClinicApp\PetClinicApp\obj\Debug\PetClinicApp.csproj.AssemblyReference.cache
@@ -20,5 +18,3 @@ C:\Users\ayseb\source\repos\PetClinicApp\PetClinicApp\obj\Debug\PetClinicApp.csp
 C:\Users\ayseb\source\repos\PetClinicApp\PetClinicApp\obj\Debug\PetClini.2FD11514.Up2Date
 C:\Users\ayseb\source\repos\PetClinicApp\PetClinicApp\obj\Debug\PetClinicApp.exe
 C:\Users\ayseb\source\repos\PetClinicApp\PetClinicApp\obj\Debug\PetClinicApp.pdb
-C:\Users\ayseb\source\repos\PetClinicApp\PetClinicApp\bin\Debug\PetClinicApp.pdb
-C:\Users\ayseb\source\repos\PetClinicApp\PetClinicApp\obj\Debug\PetClinicApp.exe.config
